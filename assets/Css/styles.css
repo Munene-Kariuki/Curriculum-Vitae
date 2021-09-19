@@ -25,14 +25,14 @@
 
 }
 .second-container {
-    background-color: rgb(247, 213, 156);
+    background-color: rgb(206, 229, 208);
     width: 500px;
     height: 350px;
     padding: 10px 10px 10px 20px;
     border: 10px;
 }
 .third-container {
-    background-color: rgb(247, 213, 156);
+    background-color: rgb(206, 229, 208);
     width: 500px;
     height: 350px;
     padding: 10px 10px 10px 0px;
@@ -42,7 +42,7 @@
     bottom: 370px;
 }
 .intrests {
-    background-color: rgb(247, 213, 156);
+    background-color: rgb(206, 229, 208);
     width: 385px;
     height: 350px;
     padding: 10px 10px 10px 70px;
@@ -52,9 +52,20 @@
     bottom: 740px;
 }    
 .education {
-    background-color: rgb(148, 113, 53);
+    background-color: rgb(99, 180, 184);
     position: relative;
-    bottom: 760px;
-    height: 300px;
+    bottom: 740px;
+    height: 400px;
     width: 500px;
+    padding: 10px 10px 10px 20px;
+}
+.experience {
+    background-color: rgb(99, 180, 184);
+    height: 400px;
+    width: 955px;
+    position: relative;
+    bottom: 1160px;
+    left: 530px;
+    padding: 10px;
+
 }
