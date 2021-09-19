@@ -52,7 +52,7 @@
     bottom: 740px;
 }    
 .education {
-    background-color: rgb(99, 180, 184);
+    background-color: rgb(169, 228, 215);
     position: relative;
     bottom: 740px;
     height: 400px;
@@ -60,7 +60,7 @@
     padding: 10px 10px 10px 20px;
 }
 .experience {
-    background-color: rgb(99, 180, 184);
+    background-color: rgb(169, 228, 215);
     height: 400px;
     width: 955px;
     position: relative;
@@ -68,4 +68,34 @@
     left: 530px;
     padding: 10px;
 
+}
+.referees {
+    position: relative;
+    bottom: 1160px;
+    height: 270px;
+
+}
+.nbm {
+    background-color: rgb(177, 255, 253);
+    padding: 10px 10px 10px 20px;
+    width: 300px;
+    height: 250px;
+}
+.dm {
+    background-color: rgb(177, 255, 253);
+    padding: 10px 10px 10px 20px;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    left: 330px;
+    bottom: 270px;
+}
+.rm {
+    background-color: rgb(177, 255, 253);
+    padding: 10px 10px 10px 20px;
+    width: 815px;
+    height: 250px;
+    position: relative;
+    left: 660px;
+    bottom: 540px;
 }
