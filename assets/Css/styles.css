@@ -6,15 +6,38 @@
 .pic {
     width: 120px;
     height: 120px;
+    position: relative;
+    left: 75px;
+    top: 50px;
 }
 .tittle {
     width: 350px;
     height: 100px;
     position: relative;
-    left: 300px;
-    bottom: 100px;
+    left: 200px;
+    bottom: 75px;
 }
 .occupation {
     font-family: sans-serif;
 }
+.first-container {
+    background-color: rgb(243, 240, 215);
 
+}
+.second-container {
+    background-color: rgb(247, 213, 156);
+    width: 500px;
+    height: 350px;
+    padding: 10px 10px 10px 20px;
+    border: 10px;
+}
+.third-container {
+    background-color: rgb(247, 213, 156);
+    width: 500px;
+    height: 350px;
+    padding: 10px 10px 10px 20px;
+    border: 10px;
+    position: relative;
+    left: 500px;
+    bottom: 350px;
+}
