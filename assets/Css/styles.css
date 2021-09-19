@@ -41,3 +41,13 @@
     left: 530px;
     bottom: 370px;
 }
+.intrests {
+    background-color: rgb(247, 213, 156);
+    width: 435px;
+    height: 350px;
+    padding: 10px 10px 10px 70px;
+    border: 10px;
+    position: relative;
+    left: 1040px;
+    bottom: 740px;
+}    
